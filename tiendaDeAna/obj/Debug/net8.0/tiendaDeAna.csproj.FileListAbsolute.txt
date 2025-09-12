@@ -1,0 +1,15 @@
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna.deps.json
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna.runtimeconfig.json
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna.dll
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna.pdb
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.AssemblyInfoInputs.cache
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.AssemblyInfo.cs
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.csproj.CoreCompileInputs.cache
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.sourcelink.json
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.dll
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/refint/tiendaDeAna.dll
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.pdb
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.genruntimeconfig.cache
+/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/Debug/net8.0/ref/tiendaDeAna.dll
