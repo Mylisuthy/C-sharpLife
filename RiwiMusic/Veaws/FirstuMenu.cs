@@ -48,9 +48,7 @@ public class FirstuMenu
                 break;
 
             case 3:
-                Console.Clear();
-                Console.WriteLine("\nLINQ queries coming soon...");
-                Console.ReadKey();
+                SpecificView.Menu();
                 break;
 
             case 4:

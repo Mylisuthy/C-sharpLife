@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tiendaDeAna
-build_property.ProjectDir = /home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/
+build_property.ProjectDir = C:\Users\MSUTHY\Desktop\C-sharpLife\tiendaDeAna\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

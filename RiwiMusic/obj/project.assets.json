@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSUTHY\\Desktop\\C-FTF\\RiwiMusic\\RiwiMusic.csproj",
+      "projectUniqueName": "C:\\Users\\MSUTHY\\Desktop\\C-sharpLife\\RiwiMusic\\RiwiMusic.csproj",
       "projectName": "RiwiMusic",
-      "projectPath": "C:\\Users\\MSUTHY\\Desktop\\C-FTF\\RiwiMusic\\RiwiMusic.csproj",
+      "projectPath": "C:\\Users\\MSUTHY\\Desktop\\C-sharpLife\\RiwiMusic\\RiwiMusic.csproj",
       "packagesPath": "C:\\Users\\MSUTHY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSUTHY\\Desktop\\C-FTF\\RiwiMusic\\obj\\",
+      "outputPath": "C:\\Users\\MSUTHY\\Desktop\\C-sharpLife\\RiwiMusic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSUTHY\\AppData\\Roaming\\NuGet\\NuGet.Config"

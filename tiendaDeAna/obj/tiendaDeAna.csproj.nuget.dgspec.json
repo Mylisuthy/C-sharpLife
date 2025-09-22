@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/tiendaDeAna.csproj": {}
+    "C:\\Users\\MSUTHY\\Desktop\\C-sharpLife\\tiendaDeAna\\tiendaDeAna.csproj": {}
   },
   "projects": {
-    "/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/tiendaDeAna.csproj": {
+    "C:\\Users\\MSUTHY\\Desktop\\C-sharpLife\\tiendaDeAna\\tiendaDeAna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/tiendaDeAna.csproj",
+        "projectUniqueName": "C:\\Users\\MSUTHY\\Desktop\\C-sharpLife\\tiendaDeAna\\tiendaDeAna.csproj",
         "projectName": "tiendaDeAna",
-        "projectPath": "/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/tiendaDeAna.csproj",
-        "packagesPath": "/home/mylisuthy/.nuget/packages/",
-        "outputPath": "/home/mylisuthy/Escritorio/C-FTF/tiendaDeAna/obj/",
+        "projectPath": "C:\\Users\\MSUTHY\\Desktop\\C-sharpLife\\tiendaDeAna\\tiendaDeAna.csproj",
+        "packagesPath": "C:\\Users\\MSUTHY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MSUTHY\\Desktop\\C-sharpLife\\tiendaDeAna\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mylisuthy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\MSUTHY\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

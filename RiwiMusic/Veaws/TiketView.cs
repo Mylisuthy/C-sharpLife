@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq;
-using RiwiMusic.Services;
+﻿using RiwiMusic.Services;
 using RiwiMusic.Controllers;
 using RiwiMusic.Utils;
 
@@ -98,6 +96,6 @@ public class TiketView
             }
         }
 
-        Console.WriteLine("\n↑ ↓ move | X next | Z back | C register | V edit | M delete | B search");
+        Console.WriteLine("\n ↑↓ move | X next | Z back | C register | V edit | M delete | B search");
     }
 }
